@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1YHYGHQaCO7Br6NTiQ0fcAWK_U6OrSBIesilyXOrbZyU/edit?usp=sharing
 
 Project title:
-Bangla OCR for Hand-witten Texts
+Bangla OCR for Hand-written Texts
 
 Group Number:
 5
