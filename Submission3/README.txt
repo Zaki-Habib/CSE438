@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1Nrwe274l8AT6V4PqDB-Fd4Y8-UGt3X9HMotlL_RC4q0/edit?usp=sharing
+https://docs.google.com/presentation/d/1YHYGHQaCO7Br6NTiQ0fcAWK_U6OrSBIesilyXOrbZyU/edit?usp=sharing
 
 Project title:
 Bangla OCR for Hand-witten Texts
